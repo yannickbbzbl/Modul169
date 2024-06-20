@@ -12,4 +12,7 @@ Dies ist ein Projekt für die Schule, wo es um Docker geht, wie man mit diesen a
   >
 </a>
 
-Um das Projekt zu starten auf das obere icon klicken. das Projekt wird automatisch installiert. Um ohne eine Veränderung des Codes zu arbeiten im C:\ Speichermedium einen Ordner mit dem Namen: "docker-project" erstellen.
+Um das Projekt zu starten auf das obere Icon klicken. das Projekt wird automatisch installiert. Um ohne eine Veränderung des Codes zu arbeiten im C:\ Speichermedium einen Ordner mit dem Namen: "db-docker" erstellen oder unter db:
+                                                                                                                                                                                                                                   volumes:
+                                                                                                                                                                                                                                   - "dein Pfad"\.db:/var/lib/mysql
+
