@@ -17,4 +17,4 @@ Um das Projekt zu starten auf das obere Icon klicken. das Projekt wird automatis
                                                                                                                                                                                                                                    - "dein Pfad"\.db:/var/lib/mysql
 
 Dannach folgenden Befehl im Terminal eingeben: ``docker compose up`` als zweites dann ``start docker``. 
-Nun sollte der Docker mit Datenbank offen sein. Das ganze läuft auf dem Port
+Nun sollte der Docker mit Datenbank offen sein. Das ganze läuft auf dem Port 3000. Um auf die webappliktion zu kommen ``localhost:3000`` im Browser eingeben. Nun kommt man zu Einrichtung des Namens. Ab hier kann individuelle Einstellungen treffen.
