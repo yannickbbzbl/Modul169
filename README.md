@@ -16,3 +16,5 @@ Um das Projekt zu starten auf das obere Icon klicken. das Projekt wird automatis
                                                                                                                                                                                                                                    volumes:
                                                                                                                                                                                                                                    - "dein Pfad"\.db:/var/lib/mysql
 
+Dannach folgenden Befehl im Terminal eingeben: ``docker compose up`` als zweites dann ``start docker``. 
+Nun sollte der Docker mit Datenbank offen sein. Das ganze läuft auf dem Port
